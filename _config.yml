@@ -1,3 +1,5 @@
 name: RubyNation
 markdown: redcarpet
 pygments: true
+
+baseurl:  /rubynation
